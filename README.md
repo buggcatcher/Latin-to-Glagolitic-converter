@@ -5,7 +5,9 @@ The **Glagolitic script** is the oldest known Slavic alphabet, created in the 9t
 
 While Unicode supports the **angular Glagolitic** characters (U+2C00–U+2C5F), it does **not** currently include the **curved** or **cursive** versions of the script.
 
-This tool is a simple Python-based program that allows you to **type curved Glagolitic characters using a standard keyboard**. It acts as a converter from Latin characters to images or representations of their curved Glagolitic equivalents.
+
+This tool is a simple Python-based program that allows you to **type curved Glagolitic characters using a standard keyboard**. It acts as a converter from Latin characters to their curved Glagolitic equivalents.
+
 
 ![Glagolitic Output Example](https://raw.githubusercontent.com/buggcatcher/public/main/various/glagolitic-output-example.png)
 
